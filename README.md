@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aayushi-Agarwal123
 - 👀 I’m interested in coding and learning about technological invention
 - 🌱 I’m currently learning java,python,html and c programming 
-- 💞️ I’m looking to collaborate on group project and competition so that I can learn more from people 
+- 💞️ I’m looking to collaborate on group project and competitions
 - 📫 How to reach me aayushia971@gmail.com 
 
 <!---
